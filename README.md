@@ -10,7 +10,7 @@ This project is a custom set of motion-detecting controllers made to play Dark S
 - Connects to PC via Bluetooth
 
 ## Demo Video
-[Link to your YouTube video here]
+[Watch the demo on YouTube](https://youtu.be/gMZ-B9o_rVw)
 
 ## How to Build
 Coming soon
