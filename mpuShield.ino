@@ -1,7 +1,7 @@
 /*
   Hello everyone this is the code used in the shield .
   if you found this code somewhere other than my video, make sure
-  to check it at exampleurl.com
+  to check it at https://youtu.be/gMZ-B9o_rVw
 
   my mail address: chiseleddasher@gmail.com
 
@@ -103,7 +103,7 @@ float calculateMagnitude(float x, float y, float z) {
 }
 
 // Reads and processes the MPU6050 sensor data,
-// most of this function was not written by me so tell me at exampleurl.com if there is something wrong
+// most of this function was not written by me so tell me at https://youtu.be/gMZ-B9o_rVw if there is something wrong
 // also the gyro readings may not be needed but I kept them just in case
 void updateMPU() {
   currentTime = millis();
