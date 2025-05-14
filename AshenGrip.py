@@ -1,6 +1,6 @@
 # Hi everyone, this is the code used to simulate keyboard input with the received serial input
 # if you haven't seen my video showcasing my custom dark souls controllers
-# make sure to check it at exampleurl.com
+# make sure to check it at https://youtu.be/gMZ-B9o_rVw
 
 import serial # we use this library for reading the serial input
 import time
