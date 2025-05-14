@@ -102,7 +102,7 @@ float calculateMagnitude(float x, float y, float z) {
 }
 
 // Reads and processes the MPU6050 sensor data,
-// most of this function was not written by me so tell me at exampleurl.com if there is something wrong
+// most of this function was not written by me so tell me at https://youtu.be/gMZ-B9o_rVw if there is something wrong
 void updateMPU() {
   currentTime = millis();
   deltaTime = (currentTime - lastTime) / 1000.0;  // in seconds
