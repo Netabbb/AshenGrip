@@ -1,7 +1,7 @@
 /*
   Hello everyone this is the code used in the sword .
   if you found this code somewhere other than my video, make sure
-  to check it at exampleurl.com
+  to check it at https://youtu.be/gMZ-B9o_rVw
 
   my mail address: chiseleddasher@gmail.com
 
